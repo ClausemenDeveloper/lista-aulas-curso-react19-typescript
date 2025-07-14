@@ -1,5 +1,36 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+## Requesitos
+* conferir a versao do Node.js 22 ou superior: node -v
+* conferir se esta instalado o npx: npx -v
+
+## Como rodar o projecto baixado
+
+
+## Sequencia para criar o projecto
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+## como enviar o projecto para o github
+* Inicializar um novo repositorio Git
+```
+git init
+
+```
+* Adcionar todos os arquivos modificados no staging area - area de preparacao
+```
+git add .
+```
+
+
 ## Getting Started
 
 First, run the development server:

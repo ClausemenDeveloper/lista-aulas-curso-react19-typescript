@@ -4,6 +4,18 @@
   --background: #ffffff;
   --foreground: #171717;
 }
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  border: 100px solid #000;
+}
+h1{
+
+  align-content: center;
+}
+
 
 @theme inline {
   --color-background: var(--background);
@@ -23,4 +35,5 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
 }
