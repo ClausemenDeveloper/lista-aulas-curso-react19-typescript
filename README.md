@@ -66,6 +66,26 @@ http://localhost:3000
 ```
 
 
+## Aula 3 
+
+* Inicio da aula
+- fazer diretorio porque o next faz sozinho o path
+- os arquivos sao typescript(.tsx) src/App/About/page.tsx
+```
+funcao arrow:
+const About=() =>{
+    return {
+        <div>
+        <h1>Menu</h1>
+        <h2>Sobre</h2>
+        </div>
+    };
+}
+
+//sempre exportar a funcao arrow
+export default About;
+```
+
 ## Getting Started
 
 First, run the development server:
