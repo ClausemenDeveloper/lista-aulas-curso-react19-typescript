@@ -59,6 +59,11 @@ git push -u origin main
 npm install
 ```
 
+* Acessar no navegador a URL.
+```
+http://localhost:3000
+
+```
 
 
 ## Getting Started
