@@ -49,6 +49,16 @@ git remote add origin https://github.com/ClausemenDeveloper/lista-aulas-curso-re
 ```
 git push -u origin main
 ```
+* clonar o repositorio remoto
+```
+ git clone https://github.com/ClausemenDeveloper/lista-aulas-curso-react19-typescript.git
+ ```
+
+* installar dependencias 
+```
+npm install
+```
+
 
 
 ## Getting Started
