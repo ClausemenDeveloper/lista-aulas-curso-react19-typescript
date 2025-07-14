@@ -29,6 +29,26 @@ git init
 ```
 git add .
 ```
+* Commit representa um conjunto de alteracoes
+```
+git commit -m "fase do projecto"
+```
+
+* Renomear a branch -M main
+```
+git branch -M main
+```
+
+* adcionar um repositorio remoto ao repositorio local
+```
+git remote add origin https://github.com/ClausemenDeveloper/lista-aulas-curso-react19-typescript.git
+
+```
+
+* Enviar o comitte locais pra repositorios remotos
+```
+git push -u origin main
+```
 
 
 ## Getting Started
